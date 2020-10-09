@@ -1,0 +1,35 @@
+.content {
+    position: absolute;
+    /*border: 2px solid red;*/
+    text-align: center;
+    width: 100%;
+    max-width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.image {
+    margin-bottom: 5%;
+    width: 350px;
+}
+
+.summary {
+    color: white;
+    text-shadow: 0 0 0.8px #000, 0 0 0.8px #000, 0 0 0.8px #000, 0 0 0.8px #000, 0 0 0.8px #000, 0 0 0.8px #000, 0 0 0.8px #000, 0 0 0.8px #000, 0 0 0.8px #000, 0 0 0.8px #000;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 1%;
+}
+
+.message {
+    color: white;
+    text-shadow: 0 0 0.8px #000, 0 0 0.8px #000, 0 0 0.8px #000, 0 0 0.8px #000, 0 0 0.8px #000, 0 0 0.8px #000, 0 0 0.8px #000, 0 0 0.8px #000, 0 0 0.8px #000, 0 0 0.8px #000;
+    font-size: 40px;
+    line-height: 150%;
+    font-weight: bold;
+    vertical-align: middle;
+}
+
+span {
+    color: rgb(24, 201, 255);
+}
